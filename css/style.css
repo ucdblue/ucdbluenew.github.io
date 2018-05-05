@@ -760,7 +760,7 @@ textarea.input {
   left: 0px;
   width: 60%;
   background: #0883BB;
-  opacity: 0.9;
+  opacity: 0.2;
   -webkit-transform: skewX(-45deg);
   -ms-transform: skewX(-45deg);
   transform: skewX(-45deg);
