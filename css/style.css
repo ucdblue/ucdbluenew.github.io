@@ -75,11 +75,7 @@ a {
 }
 
 a:hover, a:focus {
-<<<<<<< HEAD
   color: #0883BB;
-=======
-  color: ##0883BB;
->>>>>>> fffa05a99c5f208f75017a77740a6e369ccb8d54
   text-decoration: none;
   outline: none;
 }
@@ -97,11 +93,7 @@ ul, ol {
 .primary-btn {
   display: inline-block;
   padding: 12px 30px;
-<<<<<<< HEAD
   background-color: #0883BB;
-=======
-  background-color: ##0883BB;
->>>>>>> fffa05a99c5f208f75017a77740a6e369ccb8d54
   border: none;
   border-radius: 40px;
   color: #FFF;
